@@ -1,5 +1,11 @@
 tags:
   - assessment
+  - Rails
+  - Angular
+  - single-page
 languages:
   - Angular
+  - Javascript
+  - Rails
 resources: 0
+live_assessment: true
