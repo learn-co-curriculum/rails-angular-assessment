@@ -12,9 +12,9 @@ In this app you'll be making a Single Page Angular App
 2. Must contain some sort of nested views
 3. Must contain some sort of searching as well as filtering based on some criteria. Ex: All items in the "fruit" category, or all tasks past due
 4. Must contain at least one page that allows for dynamic updating of a single field of a resource. Ex: Allow changing of quantity in a shopping cart
-5. Links should work correctly. Ex: Clicking on a product in a list, should take you the show page for that product
+5. Links should work correctly. Ex: Clicking on a product in a list, should take you to the show page for that product
 6. Data should be validated in Angular before submission
-7. Must use talk to the Rails backend using `$http` and Services.
+7. Must talk to the Rails backend using `$http` and Services.
 
 ### Rails
 
@@ -60,3 +60,5 @@ We should reach out to you soon to schedule a pairing process. If you don't hear
 - You won't be yelled at, belittled, or scolded
 - You won't be put on the spot without support
 - There's nothing you can do to instantly fail or blow it.
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-angular-assessment'>Rails Angular Assessment</a> on Learn.co and start learning to code for free.</p>
