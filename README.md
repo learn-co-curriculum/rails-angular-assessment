@@ -62,6 +62,3 @@ We should reach out to you soon to schedule a pairing process. If you don't hear
 - You won't be put on the spot without support
 - There's nothing you can do to instantly fail or blow it.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-angular-assessment'>Rails Angular Assessment</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/rails-angular-assessment'>Rails Angular Assessment</a> on Learn.co and start learning to code for free.</p>
