@@ -31,6 +31,7 @@ In this app you'll be making a Single Page Angular App
 7. Submit the url to your github project
 8. Write a blog post about the project and process.
 
+Unlike the rest of the curriculum, if you have any questions about your assessment or need help with it, please *don’t* use the Ask New Question feature. Rather than working with Learn Experts, please reach out to the Learn Instructor responsible for this section instead - Luke / luke@flatironschool.com / learn-co slack: luke.
 
 ## If you're a Learn-Verified Premium student:
 
